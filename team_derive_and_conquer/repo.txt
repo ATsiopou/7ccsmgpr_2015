@@ -1,1 +1,1 @@
-https://github.com/ATsiopou/simulation.git
+https://github.com/ATsiopou/simulation
